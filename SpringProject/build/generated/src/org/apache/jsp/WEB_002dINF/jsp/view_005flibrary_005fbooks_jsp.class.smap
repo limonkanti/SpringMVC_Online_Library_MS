@@ -1,0 +1,23 @@
+SMAP
+view_005flibrary_005fbooks_jsp.java
+JSP
+*S JSP
+*F
++ 0 view_library_books.jsp
+WEB-INF/jsp/view_library_books.jsp
+*L
+5,16:54
+20:95,11
+21,2:106
+23:108,3
+24,4:111
+28:115,3
+29,4:118
+33:122,3
+34,2:125
+36:127,3
+37,2:130
+39:132,3
+40,2:135
+41,6:72
+*E
